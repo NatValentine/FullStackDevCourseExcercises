@@ -1,0 +1,12 @@
+h1 {
+  font-family: 'Pangolin', sans-serif;
+  margin: 2% 1.66%;
+  border-bottom: 2px solid #33dece;
+  width: 45%;
+}
+
+img {
+  float: left;
+  width: 30%;
+  margin: 1.66%;
+}
